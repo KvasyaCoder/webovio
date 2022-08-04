@@ -153,6 +153,7 @@ color: #4D533C;
 }
 
 .hero{
+	height: 100vh;
 	padding-top: 189px;
 	padding-bottom: 100px;
 	min-height: 811px;
